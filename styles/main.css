@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  background-color: pink;
+}
+
+.shape {
+  position: fixed;
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+}
+
+.circle {
+  border-radius: 100px;
+}
+
